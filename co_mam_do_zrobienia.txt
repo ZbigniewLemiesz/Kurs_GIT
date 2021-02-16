@@ -4,4 +4,5 @@ Strona intrnetowa
 Poprawa CV 
 angielski
 hibernate - mapowanie
-stworzenie projektu na róznych urządzeniach i przesłanie na repozytorium zdalne
+stworzenie projektu na róznych urządzeniach 
+przesłanie na repozytorium zdalne (polaczenie merge)
