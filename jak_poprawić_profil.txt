@@ -1,3 +1,4 @@
 dodaj scan ukonczenia kursu SDA
-skup sie na podstawowych umiejętnosciach
-popraw kompetencje miękkie
+ewalucja SQL
+skup sie na podstawowych umiejętnosciach technicznych 
+popraw kompetencje miękkie - mniej / konkretniej
